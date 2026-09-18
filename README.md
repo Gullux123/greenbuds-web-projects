@@ -1,27 +1,12 @@
 # Greenbuds Web Development Projects
 
-A collection of web development projects I developed during my **Developer Internship at Greenbuds**. The projects focus on creating responsive and interactive websites using **HTML, CSS, and JavaScript**, with the completed websites deployed on **Netlify**.
-
-## About
-
-During my internship, I worked on multiple website development projects, gaining practical experience in:
-
-* Frontend web development
-* HTML5 and CSS3
-* JavaScript
-* Responsive web design
-* Website navigation and UI development
-* Client-side interactions
-* Website deployment using Netlify
-* Website testing and debugging
-
-After working on website development, I also contributed to testing the **Intentosphere** website, where I worked on identifying and validating functional and UI issues.
+A collection of websites I developed during my **Developer Internship at Greenbuds**, using **HTML, CSS, and JavaScript**. The projects provided hands-on experience in frontend development, UI implementation, website functionality, testing, and deployment using Netlify.
 
 ## Live Projects
 
 ### 1. Sathyam Housing
 
-A housing-related website developed using frontend web technologies.
+A real-estate website designed to present residential projects, services, company information, and customer contact options.
 
 **Technologies:** HTML, CSS, JavaScript
 
@@ -32,7 +17,7 @@ https://sathyam-housing.netlify.app/
 
 ### 2. Infitech Solutions
 
-A business website developed using HTML, CSS, and JavaScript.
+A business-oriented website developed as part of my frontend development work during the internship.
 
 **Technologies:** HTML, CSS, JavaScript
 
@@ -41,44 +26,39 @@ https://infitech-solutions.netlify.app/
 
 ---
 
+### 3. Intentosphere
 
-### 3. Web Development Project
-
-A frontend website developed during my internship.
+A website for an AI-focused platform presenting features such as intent analysis, segmentation, AI engagement, lead capture, security, pricing, and demo/contact workflows.
 
 **Technologies:** HTML, CSS, JavaScript
 
 **Live Demo:**
 https://chic-sunburst-a2be28.netlify.app/
 
----
-
-## Technologies Used
+## Skills Applied
 
 * HTML5
 * CSS3
 * JavaScript
-* Netlify
-
-## Key Contributions
-
-* Developed multiple websites from requirements and design concepts.
-* Created structured and responsive page layouts using HTML and CSS.
-* Added client-side functionality and interactions using JavaScript.
-* Tested website functionality and identified UI and functional issues.
-* Deployed completed websites using Netlify.
-* Collaborated with the team during development and testing activities.
+* Frontend Web Development
+* Responsive UI Development
+* Website Testing
+* Debugging
+* Netlify Deployment
 
 ## Internship Experience
 
-**Developer Intern — Greenbuds**
+During my Developer Internship at **Greenbuds**, I worked on multiple frontend website development projects using HTML, CSS, and JavaScript. I developed and deployed websites for different use cases and later contributed to testing activities for the Intentosphere website, identifying and validating functional and UI issues.
 
-During the internship, I worked on frontend website development and later contributed to testing activities for the Intentosphere website. The experience provided hands-on exposure to the software development workflow, from building web interfaces to testing and validating completed functionality.
+## Key Contributions
 
-## Portfolio
+* Developed multiple frontend websites using HTML, CSS, and JavaScript.
+* Implemented website layouts, navigation, content sections, forms, and interactive UI elements.
+* Worked on frontend functionality and user interface improvements.
+* Deployed completed websites using Netlify.
+* Participated in testing and validation of website functionality.
+* Identified UI and functional issues and assisted in verifying fixes.
 
-The deployed projects demonstrate practical experience in frontend development, responsive design, JavaScript-based interactions, and website deployment.
+## Live Portfolio
 
----
-
-*Developed as part of my Developer Internship at Greenbuds.*
+The projects above demonstrate practical experience in frontend web development, UI implementation, JavaScript-based functionality, website testing, and deployment.
