@@ -1,4 +1,3 @@
-# greenbuds-web-projects
 # Greenbuds Web Development Projects
 
 A collection of web development projects I developed during my **Developer Internship at Greenbuds**. The projects focus on creating responsive and interactive websites using **HTML, CSS, and JavaScript**, with the completed websites deployed on **Netlify**.
@@ -20,18 +19,7 @@ After working on website development, I also contributed to testing the **Intent
 
 ## Live Projects
 
-### 1. Greenbuds Homepage
-
-A responsive website developed as part of my internship work at Greenbuds.
-
-**Technologies:** HTML, CSS, JavaScript
-
-**Live Demo:**
-https://greenbuds-homepage1.netlify.app/
-
----
-
-### 2. Sathyam Housing
+### 1. Sathyam Housing
 
 A housing-related website developed using frontend web technologies.
 
@@ -42,7 +30,7 @@ https://sathyam-housing.netlify.app/
 
 ---
 
-### 3. Infitech Solutions
+### 2. Infitech Solutions
 
 A business website developed using HTML, CSS, and JavaScript.
 
@@ -53,18 +41,8 @@ https://infitech-solutions.netlify.app/
 
 ---
 
-### 4. Website Project
 
-Another website developed during my internship.
-
-**Technologies:** HTML, CSS, JavaScript
-
-**Live Demo:**
-[Add the correct Netlify URL]
-
----
-
-### 5. Web Development Project
+### 3. Web Development Project
 
 A frontend website developed during my internship.
 
